@@ -1,3 +1,4 @@
+https://username.github.io/my-repo/index.html
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
